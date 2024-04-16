@@ -1,0 +1,22 @@
+.boton{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+#texto {
+    margin-left: 600px;
+    font-size: 100px;
+    
+    
+}
+
+
+
+
